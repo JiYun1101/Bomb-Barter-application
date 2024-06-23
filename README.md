@@ -1,8 +1,8 @@
 # 파인애플 물물교환 어플리케이션
 
-<center>### 웹프레임워크1 팀 프로젝트</center>
+<center>웹프레임워크1 팀 프로젝트</center>
 
-<center>### B반 7팀 리액트 뿌셔뿌셔</center>
+<center>B반 7팀 리액트 뿌셔뿌셔</center>
 
 ![그림3](https://github.com/JiYun1101/Bomb-Barter-application/assets/91119322/32366fc4-f85b-4bdb-b246-fd8eaba7970f)
 
