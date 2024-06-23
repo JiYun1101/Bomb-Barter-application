@@ -4,6 +4,8 @@
 
 ### B반 7팀 리액트 뿌셔뿌셔
 
+![그림3](https://github.com/JiYun1101/Bomb-Barter-application/assets/91119322/32366fc4-f85b-4bdb-b246-fd8eaba7970f)
+
 <br/>
   
 #### 시작하기
